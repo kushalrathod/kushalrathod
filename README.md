@@ -1,4 +1,4 @@
-# Hey There, I'm [Vikram Kumar](https://www.linkedin.com/in/iamvikramkumar5)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
+# Hey There, I'm [Kushal Rathod](https://www.linkedin.com/in/kushal-rathod-4359071a5/)!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 <!--# Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Vikram Kumar](https://www.linkedin.com/in/iamvikramkumar5)! -->
 
 <a href="https://www.linkedin.com/in/iamvikramkumar5">
